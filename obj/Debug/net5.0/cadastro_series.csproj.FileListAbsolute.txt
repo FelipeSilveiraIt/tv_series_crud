@@ -1,0 +1,15 @@
+/Users/felipesilveira/Documents/Web_cursos/One/Take_fullstack/cursos_dotnet/cadastro_series/bin/Debug/net5.0/cadastro_series.deps.json
+/Users/felipesilveira/Documents/Web_cursos/One/Take_fullstack/cursos_dotnet/cadastro_series/bin/Debug/net5.0/cadastro_series.runtimeconfig.json
+/Users/felipesilveira/Documents/Web_cursos/One/Take_fullstack/cursos_dotnet/cadastro_series/bin/Debug/net5.0/cadastro_series.runtimeconfig.dev.json
+/Users/felipesilveira/Documents/Web_cursos/One/Take_fullstack/cursos_dotnet/cadastro_series/bin/Debug/net5.0/cadastro_series.dll
+/Users/felipesilveira/Documents/Web_cursos/One/Take_fullstack/cursos_dotnet/cadastro_series/bin/Debug/net5.0/ref/cadastro_series.dll
+/Users/felipesilveira/Documents/Web_cursos/One/Take_fullstack/cursos_dotnet/cadastro_series/bin/Debug/net5.0/cadastro_series.pdb
+/Users/felipesilveira/Documents/Web_cursos/One/Take_fullstack/cursos_dotnet/cadastro_series/obj/Debug/net5.0/cadastro_series.csproj.AssemblyReference.cache
+/Users/felipesilveira/Documents/Web_cursos/One/Take_fullstack/cursos_dotnet/cadastro_series/obj/Debug/net5.0/cadastro_series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipesilveira/Documents/Web_cursos/One/Take_fullstack/cursos_dotnet/cadastro_series/obj/Debug/net5.0/cadastro_series.AssemblyInfoInputs.cache
+/Users/felipesilveira/Documents/Web_cursos/One/Take_fullstack/cursos_dotnet/cadastro_series/obj/Debug/net5.0/cadastro_series.AssemblyInfo.cs
+/Users/felipesilveira/Documents/Web_cursos/One/Take_fullstack/cursos_dotnet/cadastro_series/obj/Debug/net5.0/cadastro_series.csproj.CoreCompileInputs.cache
+/Users/felipesilveira/Documents/Web_cursos/One/Take_fullstack/cursos_dotnet/cadastro_series/obj/Debug/net5.0/cadastro_series.dll
+/Users/felipesilveira/Documents/Web_cursos/One/Take_fullstack/cursos_dotnet/cadastro_series/obj/Debug/net5.0/ref/cadastro_series.dll
+/Users/felipesilveira/Documents/Web_cursos/One/Take_fullstack/cursos_dotnet/cadastro_series/obj/Debug/net5.0/cadastro_series.pdb
+/Users/felipesilveira/Documents/Web_cursos/One/Take_fullstack/cursos_dotnet/cadastro_series/obj/Debug/net5.0/cadastro_series.genruntimeconfig.cache
